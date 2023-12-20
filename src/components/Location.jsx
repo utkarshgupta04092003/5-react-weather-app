@@ -14,12 +14,12 @@ export default function Location({setLocation}) {
     }
     
   return (
-    <div className='border border-gray-500'>
+    <div className='border border-gray-500 flex justify-center'>
 
-        Location.jsx working properly
-
-        <input type="text"  />
-        <button onClick={handleClick}>click here</button>
+        {/* Location.jsx working properly */}
+        <button
+        className='text-center font-bold cursor-pointer w-full m-2' 
+        onClick={handleClick}>Current Location</button>
       
     </div>
   )
