@@ -58,7 +58,14 @@ The React Weather App, named '5-reat-weather-app', is a web application built wi
 
 ## Screenshots
 
-![React Weather App Screenshot](./screenshot.png)
+Current Location weather report: 
+![image](https://github.com/utkarshgupta04092003/5-react-weather-app/assets/63789702/b2e1411b-e5e9-4cc5-b099-9356ff255317)
+
+Weather report of the city by name:
+![image](https://github.com/utkarshgupta04092003/5-react-weather-app/assets/63789702/146c5809-ad6b-40fa-a2ab-f183c2e638eb)
+
+Compare two city weather reports:
+![image](https://github.com/utkarshgupta04092003/5-react-weather-app/assets/63789702/2f9b5ada-d652-482b-a1bc-51bdb928ae9c)
 
 ## Project Structure
 
